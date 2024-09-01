@@ -10,6 +10,10 @@ This program utilizes regular expressions to check for the valid URL and webbrow
 - Python 3.x
 - Valid YouTube URL to enter once program prompts user.
 
+## Added Functionality
+- GUI for YouTube URL using Tkinter
+- Handling for Invalid URL through prompt window message.
+
 ## Installation 
 1. Clone the project repository or download the play_youtube.py program
 2. Run the python program
